@@ -1,5 +1,5 @@
 '''
-Questão6. Leia os dois primeiros números de um array de inteiros e depois calcule 
+QUESTÃO6. Leia os dois primeiros números de um array de inteiros e depois calcule 
 os 8 números seguintes do array. A regra é que os demais elementos são calculados 
 somando os dois anteriores. Exiba o array usando print.'''
 
